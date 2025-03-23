@@ -1,10 +1,3 @@
-### Key Points
-- It seems likely that transitioning to modal field governance is feasible over decades, starting with pilot projects and gradually scaling up, given its phased approach.
-- Research suggests that early demonstrations, like watershed management pilots, can build trust and evidence, addressing challenges like AI integration and cultural shifts.
-- The evidence leans toward using crises as catalysts, potentially accelerating adoption when conventional governance fails, which is an unexpected opportunity for implementation.
-
----
-
 ### Introduction to Modal Field Governance
 
 Modal field governance is a new approach that combines human decision-making with AI to manage global and local challenges by defining necessity and impossibility boundaries. It aims to create a flexible, inclusive system that can adapt to issues like climate change and social inequities, ensuring sustainability and justice.
